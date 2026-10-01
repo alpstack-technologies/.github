@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Products built and operated by Alpstack</title>
+  <desc id="desc">Indraft, HousePulse, TinyDose, MarkdownPaper, Indraft Mobile, and Triotask.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#0D1C28"/></linearGradient>
+    <linearGradient id="indraft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6546D7"/><stop offset="1" stop-color="#2B215A"/></linearGradient>
+    <linearGradient id="house" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E86A3A"/><stop offset="1" stop-color="#67251C"/></linearGradient>
+    <linearGradient id="dose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0EAB83"/><stop offset="1" stop-color="#075044"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B07D48"/><stop offset="1" stop-color="#4A3728"/></linearGradient>
+    <linearGradient id="mobile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#168DBA"/><stop offset="1" stop-color="#123858"/></linearGradient>
+    <linearGradient id="trio" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D89F2E"/><stop offset="1" stop-color="#684514"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".3"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#FFF" fill-opacity=".05"/></pattern>
+    <style>
+      .sans{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    </style>
+  </defs>
+  <rect width="1200" height="750" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="750" rx="28" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="748" rx="27" fill="none" stroke="#FFF" stroke-opacity=".1" stroke-width="2"/>
+  <g class="mono">
+    <text x="54" y="59" fill="#7CE7F5" font-size="13" font-weight="700" letter-spacing="2.2">ALPSTACK / PRODUCTS</text>
+    <text x="1146" y="59" fill="#718493" text-anchor="end" font-size="12" letter-spacing="1.3">BUILT · SHIPPED · MAINTAINED</text>
+  </g>
+  <text x="54" y="106" fill="#F4F7FA" class="sans" font-size="31" font-weight="700">Products we build and run</text>
+
+  <g transform="translate(54 139)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#indraft)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><path d="m46 63 12-22 12 22M50 56h16" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">Indraft</text><text x="99" y="75" class="mono" fill="#DDD6FF" font-size="11" letter-spacing="1.1">SOURCE-GROUNDED AI CONTENT</text>
+    <text x="32" y="123" class="sans" fill="#F7F3FF" font-size="15">Trusted sources in. Reviewable drafts out.</text>
+    <g transform="translate(388 25)"><rect width="116" height="28" rx="14" fill="#120D2A" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#D8C9FF"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">EARLY ACCESS</text></g>
+  </g>
+
+  <g transform="translate(614 139)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#house)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><path d="M41 54h9l5-11 8 22 6-11h7" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">HousePulse</text><text x="99" y="75" class="mono" fill="#FFD7C8" font-size="11" letter-spacing="1.1">MULTILINGUAL FAN PLATFORM</text>
+    <text x="32" y="123" class="sans" fill="#FFF4F0" font-size="15">Voting, contestant journeys, and community.</text>
+    <g transform="translate(432 25)"><rect width="72" height="28" rx="14" fill="#2A0C08" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#84FFC7"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">LIVE</text></g>
+  </g>
+
+  <g transform="translate(54 319)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#dose)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><path d="M58 39v28M44 53h28" fill="none" stroke="#FFF" stroke-width="4" stroke-linecap="round"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">TinyDose</text><text x="99" y="75" class="mono" fill="#C2FFEB" font-size="11" letter-spacing="1.1">VACCINATION TRACKER</text>
+    <text x="32" y="123" class="sans" fill="#F0FFF9" font-size="15">Schedules and reminders for every child.</text>
+    <g transform="translate(390 25)"><rect width="114" height="28" rx="14" fill="#031B15" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#8DFFD8"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">IOS + ANDROID</text></g>
+  </g>
+
+  <g transform="translate(614 319)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#paper)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><path d="M44 39h28v28H44zM49 47h18M49 54h18M49 61h12" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">MarkdownPaper</text><text x="99" y="75" class="mono" fill="#F1DEC7" font-size="11" letter-spacing="1.1">MARKDOWN READER &amp; EDITOR</text>
+    <text x="32" y="123" class="sans" fill="#FFF8EF" font-size="15">Private, offline, and print-ready.</text>
+    <g transform="translate(432 25)"><rect width="72" height="28" rx="14" fill="#23170E" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#84FFC7"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">LIVE</text></g>
+  </g>
+
+  <g transform="translate(54 499)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#mobile)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><rect x="47" y="36" width="22" height="34" rx="4" fill="none" stroke="#FFF" stroke-width="3"/><path d="M54 64h8" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">Indraft Mobile</text><text x="99" y="75" class="mono" fill="#C9EDFF" font-size="11" letter-spacing="1.1">CAPTURE AND REVIEW ON THE GO</text>
+    <text x="32" y="123" class="sans" fill="#F2FAFF" font-size="15">Voice, text, photo, file, or link.</text>
+    <g transform="translate(390 25)"><rect width="114" height="28" rx="14" fill="#041725" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#8DFFD8"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">IOS + ANDROID</text></g>
+  </g>
+
+  <g transform="translate(614 499)" filter="url(#shadow)">
+    <rect width="532" height="155" rx="19" fill="url(#trio)"/><rect x=".5" y=".5" width="531" height="154" rx="18.5" fill="none" stroke="#FFF" stroke-opacity=".15"/>
+    <circle cx="58" cy="53" r="26" fill="#FFF" fill-opacity=".13"/><circle cx="50" cy="53" r="4" fill="#FFF"/><circle cx="58" cy="53" r="4" fill="#FFF"/><circle cx="66" cy="53" r="4" fill="#FFF"/>
+    <text x="99" y="50" class="sans" fill="#FFF" font-size="24" font-weight="750">Triotask</text><text x="99" y="75" class="mono" fill="#FFEBBC" font-size="11" letter-spacing="1.1">FOCUS-FIRST PRODUCTIVITY</text>
+    <text x="32" y="123" class="sans" fill="#FFFAEE" font-size="15">Three tasks a day. Finish what matters.</text>
+    <g transform="translate(432 25)"><rect width="72" height="28" rx="14" fill="#281A05" fill-opacity=".42"/><circle cx="18" cy="14" r="4" fill="#84FFC7"/><text x="31" y="18" class="mono" fill="#FFF" font-size="10" font-weight="700">LIVE</text></g>
+  </g>
+
+  <g class="mono" font-size="11" letter-spacing="1.2">
+    <text x="54" y="709" fill="#718493">AI CONTENT · HEALTH · ENTERTAINMENT · PRODUCTIVITY</text>
+    <text x="1146" y="709" text-anchor="end" fill="#F2C14E">NEXT / CЯ∆V? · F!VΞTØ9 JØ?S · HØUSΞØF∆P!S</text>
+  </g>
+</svg>
